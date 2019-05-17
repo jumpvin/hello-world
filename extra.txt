@@ -4,3 +4,5 @@ Changes show up, That is reall cool
 
 
 But thsi is I believe I have a branch
+
+The file structure isn't the best but thats ok.
